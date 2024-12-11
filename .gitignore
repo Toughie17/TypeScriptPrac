@@ -1,0 +1,19 @@
+# Node.js 관련
+node_modules/
+dist/
+.env
+*.log
+
+# OS/IDE 관련
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# TypeScript 관련
+*.tsbuildinfo
+
+# 기타
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

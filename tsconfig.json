@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    //컴파일 결과 js 파일 어디에?
+    "outDir": "dist",
+    //엄격한 타입 검사_JS -> TS 마이그레이션에셔는 끄기도 함
+    "strict": false,
+    "skipLibCheck": true,
+    "moduleDetection": "force"
+    // "moduleDetection": "force"
+  },
+
+  //컴파일 범위 지정
+  "include": ["PracticeCode"]
+}
